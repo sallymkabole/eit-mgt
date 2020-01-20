@@ -1,0 +1,14 @@
+{
+  "name": "eit-mgt",
+  "version": "1.0.0",
+  "description": "eit management",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Sally Musanga",
+  "license": "ISC"
+}
